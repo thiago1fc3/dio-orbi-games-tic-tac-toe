@@ -1,4 +1,4 @@
-﻿# Desafio DIO/Órbi Web Games
+﻿# Desafio DIO: Órbi Web Games
  
  > Criando seu próprio jogo da velha
  
