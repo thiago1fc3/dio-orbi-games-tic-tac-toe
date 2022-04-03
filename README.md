@@ -1,9 +1,8 @@
 ﻿# Desafio DIO/Órbi Web Games
  
- ## Criando seu próprio jogo da velha
+ > Criando seu próprio jogo da velha
  
- ## Demo
- [# Jogo da Velha](https://thiago1fc3.github.io/dio-orbi-games-tic-tac-toe/)
+ ## Demo (Jogo da Velha](https://thiago1fc3.github.io/dio-orbi-games-tic-tac-toe/))
  
  > Neste desafio foram implementados conceitos básicos de HTML, CSS e Javascript, tais como:
 - Manipulação no DOM com Vanilla JS
